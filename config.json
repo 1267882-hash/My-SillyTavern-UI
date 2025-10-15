@@ -1,8 +1,0 @@
-{
-  "name": "fantasy-journal-ui",
-  "displayName": "幻想手账UI (完整版)",
-  "version": "9.2.2",
-  "author": "You",
-  "type": "immersive",
-  "entry": "index.js"
-}
